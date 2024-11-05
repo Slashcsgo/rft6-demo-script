@@ -1,0 +1,15 @@
+{
+  "name": "rft5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@laihoe/demoparser2": "^0.33.1"
+  }
+}

@@ -1,0 +1,5 @@
+demos/hard/*
+demos/light/*
+*.csv
+package-lock.json
+node_modules
